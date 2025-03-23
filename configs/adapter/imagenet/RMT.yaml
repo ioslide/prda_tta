@@ -1,0 +1,11 @@
+OPTIM:
+  METHOD: "SGD"
+  BETA: 0.9
+  LR: 0.01
+  STEPS: 1
+  WD: 0.0
+
+ADAPTER:
+  NAME: RMT
+
+

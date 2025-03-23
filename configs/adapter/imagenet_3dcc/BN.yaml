@@ -1,0 +1,8 @@
+ADAPTER:
+  NAME: BN
+  BN:
+    EPS: 1e-5
+    RESET_STATS: False
+    NO_STATS: False
+
+

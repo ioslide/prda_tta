@@ -1,0 +1,14 @@
+OPTIM:
+  METHOD: "SGD"
+  STEPS: 1
+  BETA: 0.9
+  LR: 0.00025
+  WD: 0.
+  MOMENTUM: 0.9
+
+ADAPTER:
+  NAME: OURS
+  OURS:
+    MU: 0.999
+    LAMBDA1: 6.0
+    LAMBDA2: 3.0

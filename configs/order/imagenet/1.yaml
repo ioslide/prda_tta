@@ -1,0 +1,19 @@
+
+CORRUPTION:
+  ORDER_NUM: 1
+  TYPE:
+  - brightness
+  - pixelate
+  - gaussian_noise
+  - motion_blur
+  - zoom_blur
+  - glass_blur
+  - impulse_noise
+  - jpeg_compression
+  - defocus_blur
+  - elastic_transform
+  - shot_noise
+  - frost
+  - snow
+  - fog
+  - contrast

@@ -1,0 +1,13 @@
+OPTIM:
+  METHOD: "SGD"
+  STEPS: 1
+  BETA: 0.9
+  LR: 0.01
+  WD: 0.
+
+ADAPTER:
+  NAME: CoTTA
+  CoTTA:
+    RST: 0.001
+    AP: 0.1
+    MT: 0.999

@@ -1,0 +1,7 @@
+TEST:
+  BATCH_SIZE: 64
+  
+ADAPTER:
+  NAME: Source
+
+

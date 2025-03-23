@@ -1,0 +1,15 @@
+OPTIM:
+  METHOD: "Adam"
+  STEPS: 1
+  BETA: 0.9
+  LR: 1e-3
+  WD: 0.
+  MOMENTUM: 0.9
+
+ADAPTER:
+  NAME: TRIBE
+  TRIBE:
+    ETA: 0.05 
+    GAMMA: 0.1
+    H0: 0.2
+    LAMBDA: 0.5
