@@ -46,3 +46,6 @@ This project is based on the following projects:
 + RMT [official](https://github.com/mariodoebler/test-time-adaptation)
 + TRIBE [official](https://github.com/Gorilla-Lab-SCUT/TRIBE/)
 + TEA [official](https://github.com/yuanyige/tea)
+
+# Contact
+If you have any questions about our work, please contact <a href="mailto:im@xhy.im">im@xhy.im</a>
